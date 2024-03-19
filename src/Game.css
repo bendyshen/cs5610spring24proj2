@@ -1,0 +1,13 @@
+.grid-input{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.error-message{
+    display: flex;
+    font-size: 20px;
+    color: red;
+    justify-content: center;
+    align-items: center;
+}
